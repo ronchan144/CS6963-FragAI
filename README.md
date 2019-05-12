@@ -1,3 +1,8 @@
+CS6963 Project
+
+I wrote a wrapper around ImageAI to perform image recognition on fragmented JPG files.
+To run it: python3 FirstPrediction.py
+
 # ImageAI <br>
 A python library built to empower developers to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple
  and few lines of code. <br><br>
