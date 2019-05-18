@@ -2,7 +2,9 @@ CS6963 Project
 
 I wrote a wrapper around ImageAI to perform image recognition on fragmented JPG files.
 The example program is found in Tesla-Example
+It uses 1.jpg and you can find other images in the Images directory.
 To run it: python3 FirstPrediction.py
+The *.gnu files are used wtih Gnuplot to plot the outputs. Modify the plot command for your case example.
 
 I have included the Readme from Moses Olafenwa's Github below:
 
