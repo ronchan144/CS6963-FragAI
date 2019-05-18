@@ -1,8 +1,10 @@
 CS6963 Project
 
 I wrote a wrapper around ImageAI to perform image recognition on fragmented JPG files.
-The example program is found in Tesla-test
+The example program is found in Tesla-Example
 To run it: python3 FirstPrediction.py
+
+I have included the Readme from Moses Olafenwa's Github below:
 
 # ImageAI <br>
 A python library built to empower developers to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple
